@@ -1,0 +1,26 @@
+.Quote {
+    width:50%;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.Quote p {
+    font-style: italic;
+    font-size: 44px;
+    margin: 0px;
+     background-color: #FFD662FF;
+}
+
+
+.main-quote {
+    background-color: #00539CFF;
+    height: 100vh;
+}
+.gobtn {
+    text-align: center;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+.aheadBtn {
+    padding: 10px 10px;
+}
